@@ -1,0 +1,14 @@
+Package:   com.yourepo.mohadu31.snapbreak
+Version: 3297
+Architecture: iphoneos-arm
+Maintainer:  medo
+Depends: المتطلبات 
+Conflicts: التعارضات
+Filename:  deb/snapbreak_3297_iphoneos-arm.deb
+Size: 6120596 
+MD5sum: 37d53cdbc31e0ac961a67919bce71f75
+SHA1: a47930cbe568b9312d85773d61204706e980c5e0
+SHA256: c3b3d6b3c9223539a47d2a0bb269ef3402f18386c47db3d457e029ca09acd972
+Section: Tweaks
+Depiction: رابط صفحة الوصف 
+Name: Snapchat ++ 
